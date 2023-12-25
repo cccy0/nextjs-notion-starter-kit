@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'CCCY0's BLOG',
+  name: 'CCCY0的BLOG',
   domain: 'blog.cccy0.top',
   author: 'cccy0',
 
